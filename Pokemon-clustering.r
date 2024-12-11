@@ -1,11 +1,12 @@
 
 #Ładowanie niezbędnych bibiliotek
 library(dplyr)
-library(ggplot2)
+#library(ggplot2)
 library(cluster)
 library(stats)
 library(fmsb)
-library(dbscan)
+library(factoextra)
+#library(dbscan)
 
 ###########################################################################
 #Sprawdzenie, jakiego typu są atrybuty, czy są wartości brakujące#
